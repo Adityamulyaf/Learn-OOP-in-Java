@@ -79,6 +79,7 @@ public class Main {
         player1.equipArmor(baju);
         player1.display();
 
+        // player2
         player2.equipWeapon(kunai);
         player2.equipArmor(chakra);
         player2.display();
